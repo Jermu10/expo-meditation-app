@@ -1,7 +1,7 @@
 React Native Expo Meditation App with Tailwind.
 
 ```bash
-npx expo start --clear
+npm install
 ```
 
 ```bash
